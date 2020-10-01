@@ -1,3 +1,3 @@
 # speech-to-text
 # Using basic python.
-# A good help for yu creating your own project on AI Or Somthing else.
+# A good help for you, creating your own project on AI Or Somthing else.
